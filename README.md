@@ -1,0 +1,2 @@
+# TryExcept
+Hata düzeltme
